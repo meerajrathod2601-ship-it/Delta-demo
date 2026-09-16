@@ -5,4 +5,4 @@ This is a demo for git and Github class!!!!
 Shradhha Khapra
 
 # Student
-DeltA student - Meeraj Rathod
+DeltA student - Meeraj Rathod son of nollis
