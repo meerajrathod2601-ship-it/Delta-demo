@@ -5,4 +5,4 @@ This is a demo for git and Github class!!!!
 Shradhha Khapra
 
 # Student
-DeltA student
+DeltA student - Meeraj Rathod
